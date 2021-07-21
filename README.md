@@ -9,3 +9,5 @@
 | Tutorial | [HashiCorp Learn](https://learn.hashicorp.com/tutorials/waypoint/get-started-docker) |
 
 A barebones Go API, which can easily be deployed by Waypoint.
+
+This test project includes two apps defined in a single project.
