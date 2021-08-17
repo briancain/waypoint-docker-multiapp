@@ -1,4 +1,4 @@
-project = "example-go"
+project = "multi-example-go"
 
 app "example-go" {
   labels = {
